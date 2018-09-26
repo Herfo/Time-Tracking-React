@@ -1,0 +1,56 @@
+****** SNIPPETS PARA O PROJETO DOS TIMERS *****
+
+
+////// TimmerForm //////
+<div className='ui centered card'>
+    <div className='content'>
+        <div className='ui form'>
+            <div className='field'>
+                <label>Title</label>
+                <input type='text'   />
+            </div>
+            <div className='field'>
+                <label>Project</label>
+                <input type='text'   />
+            </div>
+            <div className='ui two bottom attached buttons'>
+                <button className='ui basic blue button'>
+                
+                </button>
+                <button className='ui basic red button'>
+                Cancel
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+//////// Timer ///////
+<div className='ui centered card'>
+    <div className='content'>
+        <div className='header'>
+        
+        </div>
+        <div className='meta'>
+       
+        </div>
+        <div className='center aligned description'>
+        <h2>
+            
+        </h2>
+        </div>
+        <div className='extra content'>
+        <span className='right floated edit icon'>
+            <i className='edit icon' />
+        </span>
+        <span className='right floated trash icon'>
+            <i className='trash icon' />
+        </span>
+        </div>
+    </div>
+    <div className='ui bottom attached blue basic button'>
+        Start
+    </div>
+</div>
